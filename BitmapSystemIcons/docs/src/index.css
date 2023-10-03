@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#intro, #usage, #methods, #icons, #paginatorTop { scroll-margin-top: 60px; }
+
+.hoverEffect:hover {
+  background-color: var(--bs-primary-bg-subtle);
+}
