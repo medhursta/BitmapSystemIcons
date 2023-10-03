@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapSystemIcons", "BitmapSystemIcons\BitmapSystemIcons.csproj", "{BB8F3C70-D0D7-4DE2-8182-7B370E2651B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8F3C70-D0D7-4DE2-8182-7B370E2651B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8F3C70-D0D7-4DE2-8182-7B370E2651B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8F3C70-D0D7-4DE2-8182-7B370E2651B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8F3C70-D0D7-4DE2-8182-7B370E2651B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D707F39D-DC3C-4EED-B790-B41ECA2B5AEA}
+	EndGlobalSection
+EndGlobal
