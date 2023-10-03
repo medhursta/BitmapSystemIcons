@@ -31,4 +31,4 @@ public static Image Get(Icons icon)
 
 
 ## Icons (BitmapSystemIcons.Icons)
-For a full list of icons please see the Wiki.
+For a full list of icons please see [document page](https://medhursta.github.io/BitmapSystemIcons/).
