@@ -4,6 +4,12 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  <PackageId>BitmapSystemIcons</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Anthony Medhurst</Authors>
+	  <Company>ALM Websites</Company>
+	  <PackageDescription>BitmapSystemIcon is a simple library which I create to use the Visual Studio 2022 Image Library as button icons within a WinFroms application.</PackageDescription>
+	  <RepositoryUrl>https://github.com/medhursta/BitmapSystemIcons</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

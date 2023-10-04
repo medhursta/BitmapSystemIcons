@@ -64,7 +64,7 @@ const Icons : React.FC = () => {
                                 <div style={{height: 150, display: "flex", alignItems: "center", justifyContent: "center"}}>
                                     <Image src={icon.Url} alt={icon.Name} style={{width: 50}} />
                                 </div>
-                                <span>{searchTerm ? highlightText(icon.Usages.replace("BitmapSystemIcons.Icons.",""), searchTerm) : icon.Usages.replace("BitmapSystemIcons.Icons.","")}</span>
+                                <span style={{fontSize: "80%"}}>{searchTerm ? highlightText(icon.Usages.replace("BitmapSystemIcons.Icons.",""), searchTerm) : icon.Usages.replace("BitmapSystemIcons.Icons.","")}</span>
                             </div>
                         </Col>
                     ))}
